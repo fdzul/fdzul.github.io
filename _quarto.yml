@@ -1,21 +1,40 @@
 project:
   type: website
+  output-dir: _site
 
 website:
   title: "Felipe Antonio Dzul Manzanilla"
+  site-url: "https://fdzul.github.io"
+  favicon: images/fadm.jpg
   navbar:
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
+        text: Inicio
+      - href: articulos.qmd
+        text: Publicaciones
+      - href: paquetes.qmd
+        text: Paquetes
+      - href: bookdowns.qmd
+        text: Bookdowns
+      - href: cursos.qmd
+        text: Cursos
+      - href: dashboards.qmd
+        text: Dashboards
+    right:
+      - icon: github
+        href: "https://github.com/fdzul/"
+        aria-label: GitHub
+      - icon: twitter-x
+        href: "https://twitter.com/FdzulM"
+        aria-label: X (Twitter)
+  page-footer:
+    center: "© 2026 Felipe Antonio Dzul Manzanilla"
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: darkly
     css: styles.css
-    toc: true
-
-
-
+    toc: false
+    lang: es

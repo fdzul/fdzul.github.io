@@ -1,0 +1,11 @@
+---
+title: "Bookdowns"
+---
+
+1. [Manual para la Identificación de los Hotspots en Áreas Urbanas](https://fdzul.github.io/manual_hotspots/)
+
+2. [Control de la Fauna Nociva e Insectos Transmisores de Enfermedades en Sitios Públicos](https://fdzul.github.io/control_fauna_nociva/)
+
+3. [Manual para el Rociado Residual Intradomiciliario de los Artrópodos con Importancia en Salud Pública en México](https://fdzul.github.io/manual_irs/)
+
+4. Manual para la Identificación de Escenarios Epidemiológicos de la Transmisión del Dengue en México *(en preparación)*

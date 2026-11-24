@@ -1,0 +1,53 @@
+---
+title: "Cursos"
+---
+
+## Nacionales
+
+1. **[Escenarios Epidemiológicos del Dengue en R](https://fdzul.github.io/epidemiological_scenarios_dengue_R_2025/)**\
+   Sede: Oaxaca de Juárez, Oaxaca, México (Reunión Nacional de Vectores 2025)\
+   Fecha: 23 de febrero al 1 de marzo de 2025
+
+2. **[Vigilancia Entomológica del Oropouche en México](https://fdzul.github.io/entomological_surveillance_oropouche_mexico/)**\
+   Sede: Cuernavaca, Morelos, México\
+   Fecha: 4 al 9 de mayo de 2025
+
+## Regionales
+
+1. **[Focos de Transmisión del Dengue: Región Norte](https://fdzul.github.io/epidemiological_scenarios_dengue_R_2025_norte/)**\
+   Sede: San Pedro Garza García, Nuevo León, México\
+   Fecha: 9 al 13 de junio de 2025\
+   Estados convocados: Baja California, Baja California Sur, Chihuahua, Coahuila, Estado de México, Nuevo León, Querétaro, San Luis Potosí, Sonora y Tamaulipas
+
+2. **[Focos de Transmisión del Dengue: Región Sur](https://fdzul.github.io/epidemiological_scenarios_dengue_R_2025_sur/)**\
+   Sede: San Francisco de Campeche, Campeche, México\
+   Fecha: 21 al 25 de junio de 2025\
+   Estados convocados: Campeche, Chiapas, Guerrero, Oaxaca, Quintana Roo, Tabasco, Veracruz y Yucatán
+
+3. **[Focos de Transmisión del Dengue: Región Centro](https://fdzul.github.io/epidemiological_scenarios_dengue_R_2025_centro/)**\
+   Sede: Centro Universitario de Ciencias de la Salud, Universidad de Guadalajara, Guadalajara, Jalisco, México\
+   Fecha: 19 al 22 de agosto de 2025\
+   Estados convocados: Aguascalientes, Ciudad de México, Colima, Durango, Estado de México, Guerrero, Jalisco, Michoacán, Morelos, Nayarit, Puebla, Querétaro, Sinaloa, Tlaxcala y Zacatecas
+
+## Estatales
+
+1. **[Focos de Transmisión del Dengue: Oaxaca](https://fdzul.github.io/focos_transmision_dengue_oaxaca_2026/)**\
+   Sede: Oaxaca de Juárez, Oaxaca, México\
+   Fecha: 27 al 30 de octubre de 2026
+
+2. **[Focos de la Transmisión Activa del Dengue en Guanajuato en R](https://fdzul.github.io/active_transmission_dengue_2025_guanajuato/temario.html)**\
+   Sede: León, Guanajuato, México\
+   Fecha: 22 al 24 de abril de 2025
+
+3. **[Focos de Transmisión Activa del Dengue en Veracruz](https://fdzul.github.io/active_transmission_dengue_2025_veracruz/)**\
+   Sede: Facultad de Estadística e Informática, Universidad Veracruzana, Xalapa, Veracruz, México ([Foro de Estadística UV](https://sites.google.com/view/foroestadisticauv/página-principal))\
+   Fecha: 19 y 20 de mayo de 2025
+
+4. **[Focos de Transmisión Activa del Dengue en Morelos](https://fdzul.github.io/active_transmission_dengue_2025_morelos/)**\
+   Sede: Cuernavaca, Morelos, México\
+   Fecha: 2 al 4 de junio de 2025
+
+5. **[Análisis Espacial del Dengue en R](https://fdzul.github.io/spatial_analysis_dengue_R_2024/)**\
+   Sedes: Tabasco y Michoacán, México\
+   Año: 2024\
+   [Informe del curso](https://candid-nasturtium-244f22.netlify.app)

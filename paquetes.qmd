@@ -1,0 +1,66 @@
+---
+title: "Paquetes en R y Python"
+---
+
+## dengueverse
+
+El [dengueverse](https://fdzul.github.io/dengueverse/) es un universo o colección de paquetes en R y Python para el análisis y la toma de decisiones en el programa de prevención y control del dengue en México. Originalmente se pensó para el dengue, pero el concepto puede extenderse a otras enfermedades transmitidas por vector (malverse = malaria, chagaverse = enfermedad de Chagas, leishverse = leishmaniasis).
+
+Los paquetes en R se instalan desde su R-universe: [fdzul.r-universe.dev](https://fdzul.r-universe.dev); los de Python, desde su repositorio en [GitHub](https://github.com/fdzul).
+
+Estado: **estable** (listo para usarse), **experimental** (en desarrollo) o **heredado** (en proceso de reemplazo).
+
+# Paquetes en R
+
+## Datos
+
+| Paquete | Estado | Descripción |
+|---|---|---|
+| [sinave](https://github.com/fdzul/sinave) | Experimental | Importa las once bases de datos de enfermedades transmitidas por vector del SINAVE. |
+| [rgeomex](https://fdzul.github.io/rgeomex/) | Estable | Límites geográficos de México, desde estados hasta secciones electorales, con base en INEGI 2019 e INE 2020. |
+| [popmex](https://fdzul.github.io/popmex/) | Estable | Población de México por municipio, sexo y grupo de edad, también en hexágonos H3, para el cálculo de tasas. |
+| [denguedatasets](https://fdzul.github.io/denguedatasets/) | Estable | Bases de datos abiertas de vigilancia del dengue y clima de once países, para investigación y aprendizaje automático. |
+| [ewarsmx](https://github.com/fdzul/ewarsmx) | Experimental | Datos climáticos y epidemiológicos para el sistema de alerta temprana y respuesta del dengue en México (EWARS-CSD). |
+| [climex](https://fdzul.github.io/climex/) | Experimental | Descarga variables climáticas de la API NASA POWER para los 2,465 municipios de México o cualquier conjunto de puntos. |
+
+## Vigilancia
+
+| Paquete | Estado | Descripción |
+|---|---|---|
+| [densnv](https://fdzul.github.io/densnv/) | Estable | Análisis de las bases del SINAVE: focos de transmisión, prueba de Knox, Rt y escenarios epidemiológicos. |
+| [vectoRcontrol](https://github.com/fdzul/vectoRcontrol) | Experimental | Exploración de las bases de datos de control vectorial de la Secretaría de Salud. |
+| [epifeatures](https://github.com/fdzul/epifeatures) | Experimental | Extrae características epidemiológicas de series de tiempo del dengue. |
+| [boldenr](https://github.com/fdzul/boldenr) | Heredado | Gráficos, tablas y mapas del boletín de dengue de Veracruz; está siendo reemplazado por densnv. |
+
+## Hotspots
+
+| Paquete | Estado | Descripción |
+|---|---|---|
+| [denhotspots](https://fdzul.github.io/denhotspots/) | Estable | Identifica hotspots de transmisión persistente, análisis espacio-temporales y procesos de Cox log-gaussianos. |
+| [knox](https://github.com/fdzul/knox) | Estable | Prueba de Knox para la interacción espacio-temporal. |
+
+## Entomología
+
+| Paquete | Estado | Descripción |
+|---|---|---|
+| [deneggs](https://fdzul.github.io/deneggs/) | Estable | Mapas predictivos de huevos o adultos de *Aedes aegypti* donde no hubo colecta, mediante geoestadística INLA-SPDE. |
+
+## Riesgo
+
+| Paquete | Estado | Descripción |
+|---|---|---|
+| [denrisk](https://fdzul.github.io/denrisk/) | Experimental | Bases de datos espaciales sobre la transmisión potencial del dengue en México. |
+| [dengueriskcdmx](https://github.com/fdzul/dengueriskcdmx) | Estable | Datos, rásters y código del mapa de riesgo de transmisión del dengue de la Zona Metropolitana de la Ciudad de México. |
+
+# Paquetes en Python
+
+Versiones en Python de los paquetes del dengueverse.
+
+| Paquete | Estado | Descripción |
+|---|---|---|
+| [rgeomex-py](https://fdzul.github.io/rgeomex-py/) | Estable | Límites geográficos de México a diferentes niveles, con base en INEGI 2019 e INE 2020. |
+| [popmex-py](https://fdzul.github.io/popmex-py/) | Estable | Población de México por municipio, sexo y grupo de edad, en hexágonos H3 y LandScan (1 km), para el cálculo de tasas. |
+| [denguedatasets-py](https://fdzul.github.io/denguedatasets-py/) | Estable | Versión en Python de denguedatasets. |
+| [dengueriskcdmx-py](https://fdzul.github.io/dengueriskcdmx-py/) | Estable | Versión en Python de dengueriskcdmx. |
+| [climex-py](https://fdzul.github.io/climex-py/) | Experimental | Datos climáticos de México de la API NASA POWER para 2,465 municipios o cualquier conjunto de puntos. |
+| [densnv-py](https://fdzul.github.io/densnv-py/) | Experimental | Versión en Python de densnv: lectura del SINAVE, casos por municipio y localidad, y Rt (validado contra R). |

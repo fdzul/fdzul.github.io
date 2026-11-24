@@ -1,0 +1,25 @@
+---
+title: "Dashboards"
+---
+
+## 2025
+
+1. [Focos de Transmisión de las Arbovirosis en México](https://singular-alfajores-912cfc.netlify.app)
+
+## 2024
+
+1. [Programa de Prevención y Control del Dengue Nacional](https://sparkly-concha-17d36d.netlify.app/)
+2. [Programa de Prevención y Control del Dengue: 08 Chihuahua](https://cute-mousse-c06081.netlify.app/)
+3. [Programa de Prevención y Control del Dengue: 11 Guanajuato](https://loquacious-custard-d16358.netlify.app/)
+4. [Programa de Prevención y Control del Dengue: 12 Guerrero](https://ephemeral-ganache-9dcf43.netlify.app/)
+5. [Escenarios Operativos de Transmisión Persistente](https://gorgeous-douhua-44b970.netlify.app/)
+
+## 2022–2023
+
+1. [Programa de Prevención y Control del Dengue Nacional](https://fdzul.github.io/den_mx_dashboard/)
+2. [Sistema Integral de Monitoreo de Vectores](https://fdzul.github.io/simv_denmx_dashboard/)
+3. [Programa de Prevención y Control del Dengue del Estado de Veracruz](https://fdzul.github.io/den_ver_dashboard/)
+4. [Programa de Prevención y Control del Dengue del Estado de Yucatán](https://elegant-meringue-edbfe0.netlify.app/)
+5. [Programa de Prevención y Control del Dengue en el Municipio de Chilpancingo de los Bravo, Guerrero](https://fdzul.github.io/direccion_municipal_salud)
+6. [Programa de Prevención y Control del Dengue en el Municipio de Poza Rica, Veracruz](https://fdzul.github.io/denmx_dashboard_pozarica/)
+7. [Modelos Estratégicos de Focalización del Dengue en Áreas Urbanas de México](https://luminous-crepe-19a0f1.netlify.app/)

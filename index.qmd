@@ -1,7 +1,75 @@
 ---
 title: "Felipe Antonio Dzul Manzanilla"
+image: images/fadm.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 11em
+  links:
+    - icon: github
+      text: GitHub
+      href: "https://github.com/fdzul/"
+    - icon: twitter-x
+      text: X (Twitter)
+      href: "https://twitter.com/FdzulM"
+    - icon: envelope
+      text: Email
+      href: "mailto:felipe.dzul.m@email.com"
+    - icon: mortarboard
+      text: Google Scholar
+      href: "https://scholar.google.es/citations?hl=es&user=3e3-4VkAAAAJ"
+    - icon: person-badge
+      text: ORCID
+      href: "https://orcid.org/0000-0002-2085-9141"
+    - icon: box-seam
+      text: dengueverse
+      href: "https://fdzul.github.io/dengueverse/"
+    - icon: boxes
+      text: R-universe
+      href: "https://fdzul.r-universe.dev"
 ---
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Licenciado en Biología por la Universidad Autónoma de Yucatán, Maestro en Ciencias de la Salud por el Instituto Nacional de Salud Pública, Doctor en Entomología Médica por la Universidad Autónoma de Nuevo León y Especialista en Métodos Estadísticos por la Universidad Veracruzana. Es investigador del Centro de Investigación en Sistemas de Salud del Instituto Nacional de Salud Pública (INSP) y miembro del Sistema Nacional de Investigadoras e Investigadores (SNII), Nivel I.
+
+Su experiencia profesional incluye su desempeño en el programa de prevención y control de enfermedades transmitidas por vector en la Secretaría de Salud desde 2003, y ha impartido las materias de Entomología del dengue (2012–2013) y Artrópodos (2009–2013) en la Unidad Académica de Ciencias Químico-Biológicas de la Universidad Autónoma de Guerrero. Su experiencia en investigación incluye la publicación de artículos científicos en revistas nacionales e internacionales, el análisis espacial, la modelación bayesiana y el aprendizaje automático aplicados al dengue, y el desarrollo de paquetes en [R](https://cran.r-project.org/) y [Python](https://www.python.org/) que integran el [dengueverse](https://fdzul.github.io/dengueverse/), una colección de herramientas abiertas para la vigilancia, el análisis y la toma de decisiones en los programas de prevención y control de las enfermedades transmitidas por vector.
+
+## Educación
+
+**Instituto Nacional de Salud Pública** | Cuernavaca, Morelos, México\
+Estancia Posdoctoral | 2024 – 2026
+
+**Universidad Veracruzana** | Xalapa, Veracruz, México\
+Especialista en Métodos Estadísticos | 2021 – 2022
+
+**Universidad Autónoma de Nuevo León** | Monterrey, Nuevo León, México\
+Doctorado en Entomología Médica | 2017 – 2021
+
+**Instituto Nacional de Salud Pública** | Cuernavaca, Morelos, México\
+Maestría en Ciencias de la Salud | 2004 – 2006
+
+**Universidad Autónoma de Yucatán** | Mérida, Yucatán, México\
+Licenciatura en Biología | 1996 – 2001
+
+## Experiencia laboral
+
+**Instituto Nacional de Salud Pública** | Investigador, Centro de Investigación en Sistemas de Salud | 2026 – actual
+
+**Secretaría de Salud de Yucatán** | Responsable del Programa de Prevención y Control del Dengue | 2022 – 2023
+
+**Secretaría de Salud de Veracruz** | Asesor de los Programas de ETVs | 2019 – 2021
+
+**Secretaría de Salud de Puebla** | Asesor de los Programas de ETVs | 2016 – 2018
+
+**Secretaría de Salud de Guerrero** | Asesor de los Programas de ETVs | 2013 – 2015
+
+**Secretaría de Salud de Guerrero** | Jefe de Departamento | 2009 – 2012
+
+**Secretaría de Salud de Guerrero** | Entomólogo | 2007
+
+**Organización Panamericana de la Salud** | Coordinador Operativo | 2006 – 2007
+
+**Laboratorio Estatal de Salud Pública de Guerrero** | Entomólogo | 2003
+
+**Secretaría de Salud de Yucatán** | Entomólogo | 2003
