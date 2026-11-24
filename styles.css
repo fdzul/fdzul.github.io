@@ -1,0 +1,35 @@
+/* Colores heredados del sitio anterior: verde (#003300) y vino (#660033) */
+h1, h2, h3 {
+  color: #003300;
+}
+
+a {
+  color: #660033;
+}
+
+a:hover {
+  color: #003300;
+}
+
+/* En modo oscuro, tonos más claros para mantener contraste */
+.quarto-dark h1,
+.quarto-dark h2,
+.quarto-dark h3 {
+  color: #8fc98f;
+}
+
+.quarto-dark a {
+  color: #e08aac;
+}
+
+/* Inicio: columna de la foto más angosta, más espacio para el texto (solo en pantallas grandes) */
+@media (min-width: 992px) {
+  .quarto-about-trestles .about-entity {
+    flex: 0 0 30%;
+    padding-right: 1.5em;
+  }
+  .quarto-about-trestles .about-contents {
+    flex: 1 1 70%;
+    max-width: none;
+  }
+}
